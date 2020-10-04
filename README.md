@@ -13,3 +13,8 @@
 
 
 ![img](https://raw.githubusercontent.com/ZiaCodes/Image-Slider-with-Distortion/main/Screenshot/Screenshot%20(45).png)
+
+
+
+
+Demo : https://imageslider12.netlify.app/
